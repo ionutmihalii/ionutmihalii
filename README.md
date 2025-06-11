@@ -31,6 +31,7 @@
 <p align="center">
   <a href="https://cyberwolf.ro" target="_blank" style="text-decoration: none; color: white;">
     <img src="https://cyberwolf.ro/logo.png" alt="Cyberwolf Logo" width="70" style="vertical-align: middle;" />
+    <br>
     <span style="font-size: 1.2em; font-weight: bold; margin-left: 10px;">cyberwolf.ro</span>
   </a>
 </p>
