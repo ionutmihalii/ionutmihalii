@@ -21,7 +21,7 @@
   <a href="https://app.hackthebox.com/users/976290"><img src="https://app.hackthebox.com/images/HTB-favicon/favicon.ico" width="40" alt="Hack The Box" /></a>
   <a href="https://blueteamlabs.online/home/user/8aef3b614e3a93c5416538"><img src="https://blueteamlabs.online/favicon.ico" width="40" alt="Blue Team Labs Online" /></a>
   <a href="https://tryhackme.com/p/cyb3rw0lfs3c"><img src="https://tryhackme.com/favicon-96x96.png" width="40" alt="TryHackMe" /></a>
-  <a href="https://www.researchgate.net/profile/Sorin-Ionut-Mihali"><img src="https://www.researchgate.net/favicon-96x96.png" width="40" alt="ResearchGate" /></a>
+  <a href="https://www.researchgate.net/profile/Sorin-Ionut-Mihali"><img src="https://www.researchgate.net/apple-touch-icon.png" width="40" alt="ResearchGate" /></a>
 </p>
 
 ---
