@@ -3,8 +3,25 @@
 </p>
 
 ---
+### 🧑‍💻 Tech Stack
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="C/C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Artificial Intelligence" src="https://img.shields.io/badge/AI-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/ML-Machine%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
-### 📊 GitHub Stats
+---
+
+### 🧑‍🏫 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=ionutmihalii" alt="GitHub Stats" />
@@ -13,7 +30,7 @@
 
 ---
 
-### 🧩 Profiles
+### 🕵️‍♂️ Profiles
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ionutmihalii"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" /></a>
@@ -26,19 +43,21 @@
 
 ---
 
-### 🚧 In development
+### 👷‍♂️ In development
 
 <p align="center">
-  <a href="https://cyberwolf.ro" target="_blank" style="text-decoration: none; color: white;">
-    <img src="https://cyberwolf.ro/logo.png" alt="Cyberwolf Logo" width="70" style="vertical-align: middle;" />
+  <a href="https://cyberwolf.ro" target="_blank" style="text-decoration: none; display: inline-block; text-align: center;">
+    <img src="https://cyberwolf.ro/logo.png" alt="Cyberwolf Logo" width="80" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
     <br>
-    <span style="font-size: 1.2em; font-weight: bold; margin-left: 10px;">cyberwolf.ro</span>
+    <span style="display: inline-block; margin-top: 8px; font-size: 1.3em; font-weight: bold; color: #333; transition: color 0.3s;">
+      cyberwolf.ro
+    </span>
   </a>
 </p>
 
 ---
 
-### 🙌 Let's Connect
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/ionutmihalii">
