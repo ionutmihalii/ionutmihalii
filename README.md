@@ -7,7 +7,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ionutmihalii&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ionurmihalii" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionutmihalii&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
 </p>
 
